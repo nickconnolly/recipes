@@ -16,7 +16,7 @@ See the following URLs for more info:
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>FireFox</string>
+        <string>Firefox</string>
     </dict>
     <key>MinimumVersion</key>
     <string>2.0</string>
