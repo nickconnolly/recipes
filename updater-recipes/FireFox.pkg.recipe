@@ -16,7 +16,7 @@ See the following URLs for more info:
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Firefox</string>
+        <string>firefox</string>
     </dict>
     <key>MinimumVersion</key>
     <string>2.0</string>
@@ -53,9 +53,9 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>source_path</key>
-                <string>%pathname%/Firefox.app</string>
+                <string>%pathname%/firefox.app</string>
                 <key>destination_path</key>
-                <string>%pkgroot%/Applications/Firefox.app</string>
+                <string>%pkgroot%/Applications/firefox.app</string>
             </dict>
         </dict>
         <dict>
