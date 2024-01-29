@@ -20,7 +20,7 @@ See the following URLs for more info:
         <key>LOCALE</key>
         <string>en-US</string>
         <key>NAME</key>
-        <string>Firefox</string>
+        <string>firefox</string>
     </dict>
     <key>MinimumVersion</key>
     <string>2.0</string>
@@ -30,7 +30,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>product_name</key>
-                <string>Firefox</string>
+                <string>firefox</string>
                 <key>release</key>
                 <string>%RELEASE%</string>
                 <key>locale</key>
@@ -43,7 +43,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>filename</key>
-                <string>Firefox.dmg</string>
+                <string>firefox.dmg</string>
             </dict>
             <key>Processor</key>
             <string>URLDownloader</string>
