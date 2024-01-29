@@ -30,7 +30,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>product_name</key>
-                <string>FireFox</string>
+                <string>Firefox</string>
                 <key>release</key>
                 <string>%RELEASE%</string>
                 <key>locale</key>
@@ -43,7 +43,7 @@ See the following URLs for more info:
             <key>Arguments</key>
             <dict>
                 <key>filename</key>
-                <string>FireFox.dmg</string>
+                <string>Firefox.dmg</string>
             </dict>
             <key>Processor</key>
             <string>URLDownloader</string>
