@@ -42,8 +42,6 @@
 				<string>%pathname%</string>
 				<key>destination_path</key>
 				<string>%pkgroot%/Applications</string>
-				<key>purge_destination</key>
-				<true/>
 			</dict>
 		</dict>
 		<dict>
