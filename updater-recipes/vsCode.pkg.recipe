@@ -41,11 +41,12 @@
 				<key>archive_path</key>
 				<string>%pathname%</string>
 				<key>destination_path</key>
-				<string>%pkgroot%/</string>
+				<string>%pkgroot%/Applications</string>
 				<key>purge_destination</key>
 				<true/>
 			</dict>
 		</dict>
+		
 		<dict>
 			<key>Processor</key>
 			<string>Versioner</string>
