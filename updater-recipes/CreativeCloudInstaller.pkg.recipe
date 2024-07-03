@@ -80,7 +80,7 @@
 				<key>source_path</key>
 				<string>%found_filename%</string>
 				<key>destination_path</key>
-				<string>%RECIPE_CACHE_DIR%/Intel_Package/Scripts/Adobe.dmg</string>
+				<string>%RECIPE_CACHE_DIR%/Intel_Package/Scripts/%VENDOR%%NAMEWITHOUTSPACES%-%version%.dmg</string>
 				<key>overwrite</key>
 				<true/>
 			</dict>
@@ -198,7 +198,7 @@ exit "${exitcode}"
 				<key>source_path</key>
 				<string>%found_filename%</string>
 				<key>destination_path</key>
-				<string>%RECIPE_CACHE_DIR%/AppleSilicon_Package/Scripts/Adobe.dmg</string>
+				<string>%RECIPE_CACHE_DIR%/AppleSilicon_Package/Scripts/%VENDOR%%NAMEWITHOUTSPACES%-%version%.dmg</string>
 				<key>overwrite</key>
 				<true/>
 			</dict>
@@ -353,7 +353,7 @@ exit 0</string>
                <key>pkg_request</key>
                <dict>
                   <key>pkgname</key>
-                  <string>Autopkg-%VENDOR%%NAMEWITHOUTSPACES%-Universal</string>
+                  <string>%VENDOR%%NAMEWITHOUTSPACES%-Universal-%version%</string>
                   <key>version</key>
                   <string>%version%</string>
                   <key>id</key>
